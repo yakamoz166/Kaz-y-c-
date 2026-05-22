@@ -1,0 +1,6 @@
+{
+  "name": "Web Kazıyıcı",
+  "description": "Herhangi bir web sitesinden hızlıca istenen alanları veya CSS seçicileri kullanarak veri çeken güçlü web kazıma uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
